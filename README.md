@@ -1,5 +1,5 @@
 # FastPHPSites
 
-[FastPHPSites.github.io](https://fastphpsites.github.io/)
+[http://fastphpsites.com/](http://fastphpsites.com/)
 
 MIT License - Copyright (c) 2017 John Bampton at FastPHPSites.
