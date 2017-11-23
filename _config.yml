@@ -23,11 +23,16 @@ url: "https://fastphpsites.github.io" # the base hostname & protocol for your si
 github_username: FastPHPSites
 
 last_update: "Site last built: "
+paginate: 5
+feed:
+  path: atom.xml
 
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
+  - jemoji
+  - jekyll-paginate
   - jekyll-feed
 
 # Exclude from processing.
