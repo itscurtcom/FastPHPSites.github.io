@@ -1,0 +1,59 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <p class="footer-heading">
+      <a href="https://www.codewars.com/users/Beast" target="_blank" rel="noopener">
+        <img src="https://www.codewars.com/users/Beast/badges/large"
+             alt="Codewars Beast"
+             title="The Real Beast">
+      </a>
+    </p>
+    <p class="footer-heading">
+      MIT License. Copyright &copy; 2017 John Bampton at <a href="https://github.com/FastPHPSites/FastPHPSites.github.io/blob/master/LICENSE" class="license" target="_blank">FastPHPSites</a>.
+      <br>
+      <a href="http://info.flagcounter.com/QKVf" target="_blank">
+        <img src="http://s09.flagcounter.com/count2/QKVf/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_250/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Free counters!">
+      </a>
+    </p>
+
+    <!--
+    <h2 class="footer-heading"></h2>
+    -->
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+
+      </div>
+
+      <div class="footer-col footer-col-2">
+
+      </div>
+
+      <div class="footer-col footer-col-3">
+
+        <ul class="social-media-list">
+          {% if site.github_username %}
+          <li>
+            {% include icon-github.html username=site.github_username %}
+          </li>
+          {% endif %}
+
+          {% if site.twitter_username %}
+          <li>
+            {% include icon-twitter.html username=site.twitter_username %}
+          </li>
+          {% endif %}
+        </ul>
+
+        <p>{{ site.description | escape }}</p>
+
+        <p>{{ site.last_update }}{{ site.time }}</p>
+
+        <a id="theend"></a>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
