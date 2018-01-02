@@ -25,6 +25,7 @@ This website is built with the following technologies:
 - [JPEG](https://en.wikipedia.org/wiki/JPEG){:target="_blank"}{:rel="noopener"}
 - [FLAG COUNTER](https://flagcounter.com/){:target="_blank"}{:rel="noopener"}
 - [CNAME record](https://en.wikipedia.org/wiki/CNAME_record){:target="_blank"}{:rel="noopener"}
+- [Unofficial github:buttons](https://github.com/ntkme/github-buttons){:target="_blank"}{:rel="noopener"}
 
 Check out the [Jekyll docs][jekyll-docs]{:target="_blank"}{:rel="noopener"} for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]{:target="_blank"}{:rel="noopener"}. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk]{:target="_blank"}{:rel="noopener"}.
 
